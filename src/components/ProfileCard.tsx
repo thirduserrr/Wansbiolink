@@ -47,7 +47,6 @@ const ProfileCard = () => {
                 </div>
                 <div className="mt-2 flex items-center gap-4">
                   <DiscordPresence />
-                  <ViewCounter />
                 </div>
               </div>
             </div>
@@ -80,3 +79,4 @@ const ProfileCard = () => {
 };
 
 export default ProfileCard;
+
