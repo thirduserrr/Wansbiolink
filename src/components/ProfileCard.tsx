@@ -1,7 +1,6 @@
 import { ExternalLink } from "lucide-react";
 import TypewriterText from "./TypewriterText";
 import GlowingName from "./GlowingName";
-import ViewCounter from "./ViewCounter";
 import DiscordPresence from "./DiscordPresence";
 import DiscordWidget from "./DiscordWidget";
 import TiltCard from "./TiltCard";
