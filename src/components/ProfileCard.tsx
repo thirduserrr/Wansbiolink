@@ -11,7 +11,7 @@ const links = [
   { name: "my twitter", url: "https://x.com/wandevs" },
 ];
 
-const bioTexts = ["enjoying my humble abode", "Im your average dev"];
+const bioTexts = ["web  Dev for fun ;D", "enjoying my humble abode", "Im your average dev"];
 
 const ProfileCard = () => {
   return (
