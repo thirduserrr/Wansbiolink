@@ -84,7 +84,7 @@ const DiscordWidget = () => {
         {data.listening_to_spotify && data.spotify && (
           <div className="mt-1">
             <p className="text-[10px] text-green-400 truncate">
-              🎵 {data.spotify.song} - {data.spotify.artist}
+               {data.spotify.song} - {data.spotify.artist}
             </p>
           </div>
         )}
