@@ -6,9 +6,8 @@ A modern, animated biolink profile page with Discord presence integration, real-
 
 - 🎨 **Beautiful Design** - Dark theme with light red accents and glassmorphism effects
 - ✨ **Particle Effects** - Animated particles around the username
-- 🔄 **Parallax Tilt** - Interactive card tilt effect on hover
-- 💬 **Discord Presence** - Live Discord status via Lanyard API
-- 👁️ **View Counter** - Real-time persistent view counter
+- 🔄 **Parallax Tilt :BUGGY: ** - Interactive card tilt effect on hover 
+- 💬 **Discord Presence** - Live Discord status via Lanyard API **NEED TO JOIN LANYARD DISCORD"
 - ⌨️ **Typewriter Bio** - Looping typewriter animation for bio text
 - 🖱️ **Custom Cursor** - Glowing custom cursor effect
 - 📱 **Fully Responsive** - Works on all devices
